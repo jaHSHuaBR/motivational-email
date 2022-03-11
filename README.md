@@ -4,6 +4,7 @@ A program written in Python that sends an email once a week, containing a random
 
 # Download and Setup
 >$ git clone https://github.com/jaHSHuaBR/motivational-email.git
+>
 >$ cd motivational-email
 
 # Open main.py to edit Constant

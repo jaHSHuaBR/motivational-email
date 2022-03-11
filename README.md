@@ -19,5 +19,7 @@ RECIPIENT_EMAIL = "email to send to"
 
 EMAIL_SMTP = "the smtp host server for your email"  # yahoo = "smtp.mail.yahoo.com" | gmail = "smtp.gmail.com | hotmail = smtp.live.com | If using other provider, google to find smtp server
 
+DAY_TO_SEND = "the day you want email to send. Monday=0, Tuesday=1...Sunday=6"
+
 # Once you have filled in the variables to work properly, just run:
 >$ python3 main.py
